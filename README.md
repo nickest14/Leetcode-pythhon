@@ -38,7 +38,7 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 25
+### Medinum finish 26
 
 #### 2. Add Two Numbers
 
@@ -74,6 +74,8 @@
 
 #### 96. Unique Binary Search Trees
 
+#### 98. Validate Binary Search Tree
+
 #### 103. Binary Tree Zigzag Level Order Traversal
 
 #### 105. Construct Binary Tree from Preorder and Inorder Traversal
@@ -104,4 +106,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 48
+### Total finish 49
