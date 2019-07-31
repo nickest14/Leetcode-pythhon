@@ -94,7 +94,9 @@
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard finish 6
+### Hard finish 7
+
+#### 23. Merge k Sorted Lists
 
 #### 32. Longest Valid Parentheses
 
@@ -108,4 +110,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 50
+### Total finish 51
