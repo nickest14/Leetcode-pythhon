@@ -40,7 +40,7 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 26
+### Medinum finish 27
 
 #### 2. Add Two Numbers
 
@@ -57,6 +57,8 @@
 #### 55. Jump Game
 
 #### 62. Unique Paths
+
+#### 74. Search a 2D Matrix
 
 #### 78. Subsets
 
@@ -110,4 +112,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 51
+### Total finish 52
