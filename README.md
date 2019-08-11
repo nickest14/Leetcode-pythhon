@@ -40,7 +40,7 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 27
+### Medinum finish 28
 
 #### 2. Add Two Numbers
 
@@ -52,6 +52,8 @@
 
 #### 34. Find First and Last Position of Element in Sorted Array
 
+#### 46. Permutations
+ 
 #### 50. Pow(x, n)
 
 #### 55. Jump Game
@@ -112,4 +114,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 52
+### Total finish 53
