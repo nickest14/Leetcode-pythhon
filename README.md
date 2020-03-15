@@ -40,13 +40,15 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 28
+### Medinum finish 30
 
 #### 2. Add Two Numbers
 
 #### 8. String to Integer (atoi)
 
 #### 15. 3Sum
+
+#### 32. Longest Valid Parentheses
 
 #### 33. Search in Rotated Sorted Array
 
@@ -63,6 +65,8 @@
 #### 74. Search a 2D Matrix
 
 #### 78. Subsets
+
+#### 79. Word Search
 
 #### 80. Remove Duplicates from Sorted Array II
 
@@ -114,4 +118,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 53
+### Total finish 55
