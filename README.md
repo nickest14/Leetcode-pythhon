@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 18
+### Easy finish 19
 
 #### 1. Two Sum
 
@@ -36,7 +36,9 @@
 
 #### 111. Minimum Depth of Binary Tree
 
-### 112. Path Sum
+#### 112. Path Sum
+
+#### 118. Pascal's Triangle
 
 #### 125. Valid Palindrome
 
@@ -120,4 +122,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 56
+### Total finish 57
