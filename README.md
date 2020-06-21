@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 19
+### Easy finish 20
 
 #### 1. Two Sum
 
@@ -41,6 +41,8 @@
 #### 118. Pascal's Triangle
 
 #### 125. Valid Palindrome
+
+#### 506. Relative Ranks
 
 ### Medinum finish 31
 
@@ -122,4 +124,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 57
+### Total finish 58
