@@ -44,7 +44,7 @@
 
 #### 506. Relative Ranks
 
-### Medinum finish 31
+### Medinum finish 32
 
 #### 2. Add Two Numbers
 
@@ -57,6 +57,8 @@
 #### 33. Search in Rotated Sorted Array
 
 #### 34. Find First and Last Position of Element in Sorted Array
+
+#### 39. Combination Sum
 
 #### 46. Permutations
  
@@ -124,4 +126,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 58
+### Total finish 59
